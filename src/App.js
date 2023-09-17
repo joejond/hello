@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome React Web Halo
+          Welcome React Web Halo Test
         </a>
       </header>
     </div>
